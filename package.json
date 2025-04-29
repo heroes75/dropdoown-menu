@@ -1,0 +1,21 @@
+{
+  "name": "dropdoown-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroes75/dropdoown-menu.git"
+  },
+  "author": "ouattara emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroes75/dropdoown-menu/issues"
+  },
+  "homepage": "https://github.com/heroes75/dropdoown-menu#readme",
+  "dependencies": {
+  }
+}
